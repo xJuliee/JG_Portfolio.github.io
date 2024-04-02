@@ -105,10 +105,10 @@ img {
 }
 
 .testimonials .card img {
-  max-width: 100%; /* Set maximum width to prevent images from exceeding their container */
-  height: auto; /* Maintain aspect ratio */
-  display: block; /* Remove default inline spacing */
-  margin: auto; /* Center-align images */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
 }
 
 .testimonials .card p:nth-child(2) {
@@ -408,7 +408,7 @@ img {
   }
 
   .hero .container {
-    background: url('..') no-repeat;
+    background: url('../images/Home.png') no-repeat;
     background-size: 350px 400px;
     background-position: bottom;
     height: 770px;
